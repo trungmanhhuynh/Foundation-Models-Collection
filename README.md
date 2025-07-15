@@ -1,3 +1,8 @@
+A curated list of foundation models include: 
+ + Large Language Models
+ + Multimodal foundation models
+ + Embodied foundation models
+
 
 ## 2025
 [Meta] Llama 4. [Blog](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
