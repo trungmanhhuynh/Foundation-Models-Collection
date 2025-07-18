@@ -16,6 +16,13 @@ A curated list of foundation models include:
 
 
 ## 2018
+[Google][BERT] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. [Paper](file:///Users/mhuynh/Downloads/1810.04805v2.pdf)
+  - Bi-directional transformer-based model.
+  - The core model of pre-training and fine-tuning model are the same.
+  - Model are similar to GPT-1. Bert-Base 110M params (same size with GPT-1). BERT-Large is 340M params.
+  - Pre-training Tasks: Mask Language Model (MLM), Next Sequence Prediction.
+  - Fine-tuning Tasks: 
+    
 [OpenAI][GPT-1]Improving Language Understanding by Generative Pre-Training. [Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
 # Datasets
