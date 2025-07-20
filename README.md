@@ -13,7 +13,13 @@ A curated list of foundation models include:
 ## 2023
 [Meta][Jul] Llama 2. Llama 2: Open Foundation and Fine-Tuned Chat Models [Paper](https://arxiv.org/pdf/2307.09288)
 [Meta][Feb] Llama 1. LLaMA: Open and Efficient Foundation Language Models [Paper](https://arxiv.org/pdf/2302.13971)
+[OpenAI][GPT-4] GPT-4 Technical Report. [Paper](https://arxiv.org/abs/2303.08774). [Code not published]
 
+## 2020 
+[OpenAI][GPT-3] Language Models are Few-Shot Learners. [Paper](https://arxiv.org/abs/2005.14165). [Code](https://github.com/openai/gpt-3)
+
+## 2019
+[OpenAI][GPT-2] Language Models are Unsupervised Multitask Learners. [Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf). [Code](https://github.com/openai/gpt-2)
 
 ## 2018
 [Google][BERT] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. [Paper](file:///Users/mhuynh/Downloads/1810.04805v2.pdf)
